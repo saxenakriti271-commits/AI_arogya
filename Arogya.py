@@ -32,7 +32,7 @@ import groq
 
 # --- API KEYS ---
 import os
-GROQ_API_KEY = os.getenv "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"
+GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 WEATHER_API_KEY = "1042b9678ab6040423bb4f792e3d4ef6"
 GOOGLE_MAPS_API_KEY = "AIzaSyAWDpyX1nouw4fA8ChkkNO5wol1GsxjgY8"
 
